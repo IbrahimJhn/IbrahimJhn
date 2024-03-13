@@ -1,5 +1,3 @@
-
-
 # Welcome to My Flutter Mobile Developer Portfolio
 
 Greetings! I am a seasoned Flutter Mobile Developer with a strong foundation in front-end design, networking, and back-end integration. Allow me to share an overview of my expertise in crafting robust and efficient Flutter applications.
